@@ -8,7 +8,7 @@
 
 ## 下载
 
-到 [Releases](../../releases) 页面下载 `SHP转KMZ工具_v1.0.zip`，解压后双击 `SHP转KMZ.exe` 即可运行。
+到 [Releases](../../releases/latest) 页面下载 `shp2kmz-v1.0-windows.zip`，解压后双击 `SHP转KMZ.exe` 即可运行。
 
 - 单个 exe，约 60 KB，不需要安装，也不依赖 Python、GDAL、ArcGIS 等软件
 - 支持 Windows 10 / 11（系统自带 .NET Framework 4.x）
